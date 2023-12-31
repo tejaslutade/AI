@@ -1,5 +1,5 @@
 # AI
-AI projects &amp; experiments
+Ramdom AI projects &amp; experiments for learning perspective
 
 # How to setup OPENAI Access Key
 https://gptforwork.com/help/gpt-for-docs/setup/create-openai-api-key
